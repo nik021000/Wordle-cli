@@ -1,16 +1,16 @@
-python-wordle-cli
-
+# python-wordle-cli
+```
 Command line game based on wordle classic.
 It is a 5 letter wordle classic.
 Guess the WORDLE in six tries.
 Each guess must be a valid five-letter word. Hit the enter button to submit.
   Capital Letters are letters in the correct location
   Lowercase Letters are within the word, but not the correct location
-  
-Demo with 4 letters
------------------Rules-------------------
+```
+# Demo with 4 letters
+```--------------Rules-------------------
 
-Capital Letters are letters in the correct location
+Capital Letters are letters in the correct location.
 Lowercase Letters are within the word, but not the correct location
 -------------------------------------------------------------------
 bloke
@@ -102,3 +102,4 @@ q w e * * y u * O *
 z x * v b * *
 
 No more tries. The word was "BLOKE"
+```
