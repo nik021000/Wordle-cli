@@ -7,7 +7,7 @@ Each guess must be a valid five-letter word. Hit the enter button to submit.
   Capital Letters are letters in the correct location
   Lowercase Letters are within the word, but not the correct location
 ```
-# Demo with 4 letters
+# Demo with 5 letters
 ```--------------Rules-------------------
 
 Capital Letters are letters in the correct location.
